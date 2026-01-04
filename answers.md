@@ -6,3 +6,4 @@ LEVEL 5 COMPLETE: I'm working on my own branch
 LEVEL 6 CHEST CODE: CHEST-CODE: FOX-7
 LEVEL 7 COMPLETE: Defeated the mini boss(just diff and commit hahaha)
 LEVEL 8 PR LINK: https://github.com/happyvirus-kai/cpe411l-git-quest/pull/1
+This line was added on student branch.

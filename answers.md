@@ -8,3 +8,4 @@ LEVEL 7 COMPLETE: Defeated the mini boss(just diff and commit hahaha)
 LEVEL 8 PR LINK: https://github.com/happyvirus-kai/cpe411l-git-quest/pull/1
 This line was added on student branch.
 Level 9: intentionally created a tiny conflict
+LEVEL 10 COMPLETE: I submitted my proof
